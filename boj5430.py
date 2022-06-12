@@ -1,5 +1,5 @@
 '''
-BoJ 84165   Gold 5
+BoJ 5430   Gold 5
 AC
 '''
 import sys
