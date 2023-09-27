@@ -1,3 +1,8 @@
+'''
+BoJ 1463    Silver 3
+1로 만들기
+'''
+
 N = int(input())
 
 if N < 4:
